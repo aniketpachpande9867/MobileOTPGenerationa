@@ -1,0 +1,7 @@
+server:
+  port: 8085
+
+otpproperties:
+  account_sid: ACb48789f0c398bec475a9e17876e09697
+  auth_token: 04fa30840340295355aa99edaf5377d1
+  service_id: VAc3bd07f2f687b8c74b929719f3c5d3ba
